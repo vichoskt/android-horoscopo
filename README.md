@@ -1,0 +1,2 @@
+# android-horoscopo
+horoscopo chino
